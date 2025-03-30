@@ -3,7 +3,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>DentAL</title>
-		<link href="style.css" rel="stylesheet" />
+		<link href="../style.css" rel="stylesheet" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
@@ -22,8 +22,8 @@
 
 				<div class="img-wrapper">
 					<picture>
-						<source media="(min-width: 768px)" srcset="res/dentist.jpg">
-						<img class="header-img" src="res/dentist-small.jpg">
+						<source media="(min-width: 768px)" srcset="../res/dentist.jpg">
+						<img class="header-img" src="../res/dentist-small.jpg">
 					</picture>
 					<div class="overlay"></div>
 					<div class="header-content">
@@ -43,17 +43,17 @@
 
 				<div class="why-benefits-wrapper">
 					<div class="why-card">
-						<img class="why-card-img" src="res/plane.png"></img>
+						<img class="why-card-img" src="../res/plane.png"></img>
 						<h3 class="why-card-title">Flight included</h3>
 						<p class="why-card-p">Your flight ticket will be refunded at our dental clinic. Enjoy high-quality dental services, experience a <strong>worry-free trip</strong>, and return home with a confident new smile.</p>
 					</div>
 					<div class="why-card">
-						<img class="why-card-img" src="res/hotel.png"></img>
+						<img class="why-card-img" src="../res/hotel.png"></img>
 						<h3 class="why-card-title">Free Accomodation (both appointments)</h3>
 						<p class="why-card-p">Planning a dental trip can feel overwhelming, so let us make it easier with <strong>complimentary accomodation</strong> during your stay! Book your dental treatment at our clinic, and we'll take care of your stay - providing a comfortable, welcoming place for you to relax and recover.</p>
 					</div>
 					<div class="why-card">
-						<img class="why-card-img" src="res/car.png"></img>
+						<img class="why-card-img" src="../res/car.png"></img>
 						<h3 class="why-card-title">VIP Transfer</h3>
 						<p class="why-card-p">We believe that every detail of your dental journey should be seamless and stress-free. When you book your treatment with us, enjoy <strong>VIP airport transfer</strong> directly to your accomodation and clinic! No need to worry about finding transportation - our dedicated driver will meet you at the airport and take you to your destination in style and comfort.</p>
 					</div>
@@ -69,14 +69,14 @@
 						<h3 class="service-card-title">5th Generation Titanium Implants</h3>
 						<p class="service-card-p">Our <strong>high-end, world-class dental implants</strong> provide a lasting solution for missing teeth, combining advanced technology with expert care. Designed for durability, comfort, and natural look, our implants restore function and confidence to your smile. Experience precise, minimally invasive treatment from skilled professionals who prioritize your comfort and satisfaction.</p>
 					</div>
-					<img class="service-card-img" src="res/service-1.jpg">
+					<img class="service-card-img" src="../res/service-1.jpg">
 				</div>
 				<div class="service-card">
 					<div class="service-card-content mobile-only">
 						<h3 class="service-card-title">World-class Crowns</h3>
 						<p class="service-card-p">Our <strong>premium dental crowns</strong> are crafted to blend seamlessly with your natural teeth, restoring both strength and beauty to damaged or worn teeth. Using top-quality materials and state-of-the-art techniques, we create crowns that are durable, natural-looking, and customized to fit comfortably. Trust our skilled team to bring back the full function and brilliance of your smile!</p>
 					</div>
-					<img class="service-card-img" src="res/service-2.jpg">
+					<img class="service-card-img" src="../res/service-2.jpg">
 					<div class="service-card-content desktop-only">
 						<h3 class="service-card-title">World-class Crowns</h3>
 						<p class="service-card-p">Our <strong>premium dental crowns</strong> are crafted to blend seamlessly with your natural teeth, restoring both strength and beauty to damaged or worn teeth. Using top-quality materials and state-of-the-art techniques, we create crowns that are durable, natural-looking, and customized to fit comfortably. Trust our skilled team to bring back the full function and brilliance of your smile!</p>
@@ -87,7 +87,7 @@
 						<h3 class="service-card-title">EU-Standard Dental Care at Affordable Prices</h3>
 						<p class="service-card-p">At <strong>DentAL</strong> we offer top-quality dental treatments using the same high-standard materials and techniques approved in the EU - but at a fraction of the cost. Enjoy world-class care and significant savings, all while experiencing exceptional service and comfort.</p>
 					</div>
-					<img class="service-card-img" src="res/service-3.jpg">
+					<img class="service-card-img" src="../res/service-3.jpg">
 				</div>
 			</div>
 		</section>
@@ -141,7 +141,7 @@
 						<h4 class="testimonials-card-title">Highly recommended!</h4>
 						<p class="testimonials-card-p">I had a fantastic experience at DentAL. The dentists were highly skilled, and I felt confident in their care every step of the way. The clinic was spotless and well-equipped, and I'm thrilled with my results. Great choice for anoyone looking for quality and affordability!</p>
 						<div class="testimonials-author">
-							<img src="res/author-1.jpg" class="testimonials-author-img">
+							<img src="../res/author-1.jpg" class="testimonials-author-img">
 							<div class="testimonials-author-content">
 								<p class="testimonials-author-name">Maria Corelli</p>
 								<p class="testimonials-author-job">Self-Employed</p>
@@ -152,7 +152,7 @@
 						<h4 class="testimonials-card-title">Exceptional!</h4>
 						<p class="testimonials-card-p">Exceptional service and top-notch care! The team at DentAL made me feel comfortable from start to finish. The facilities were modern, and the results exceeded my expectations. Highly recommend for anyone seeking quality dental work abroad!</p>
 						<div class="testimonials-author">
-							<img src="res/author-2.jpg" class="testimonials-author-img">
+							<img src="../res/author-2.jpg" class="testimonials-author-img">
 							<div class="testimonials-author-content">
 								<p class="testimonials-author-name">Ibrahim Halmy</p>
 								<p class="testimonials-author-job">Retired</p>
@@ -163,7 +163,7 @@
 						<h4 class="testimonials-card-title">Impressed</h4>
 						<p class="testimonials-card-p">DentAL truly impressed me! From the warm welcome to the professional care, every detail was handled perfectly. The team was attentive, and I felt comfortable throughout my treatment. Excellent choice for anyone seeking reliable dental care abroad!</p>
 						<div class="testimonials-author">
-							<img src="res/author-3.jpg" class="testimonials-author-img">
+							<img src="../res/author-3.jpg" class="testimonials-author-img">
 							<div class="testimonials-author-content">
 								<p class="testimonials-author-name">Simona Giustra</p>
 								<p class="testimonials-author-job">Copywriter</p>
