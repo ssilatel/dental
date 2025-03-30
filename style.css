@@ -35,7 +35,7 @@
 
 .section-top-wrapper {
 	text-align: center;
-	margin-bottom: 100px;
+	margin-bottom: 40px;
 }
 
 .section-navigation {
@@ -303,6 +303,8 @@ nav a:hover {
 .service-card-p {
 	color: var(--gray-text);
 	margin: 10px auto;
+	width: 85%;
+	text-align: justify;
 }
 
 .service-card-img {
@@ -336,6 +338,12 @@ nav a:hover {
 
 	.service-card-img {
 		flex: 1;
+	}
+	
+	.service-card-p {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 50px;
 	}
 }
 
